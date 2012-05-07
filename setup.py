@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.MSSQL64Monitor"
 VERSION = "1.0"
 AUTHOR = "John Field"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.MSSQL64Monitor']
 INSTALL_REQUIRES = []
